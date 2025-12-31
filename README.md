@@ -1,2 +1,2 @@
-# honeypaste.github.io
+# Honeypaste Website
 honeypaste.org
